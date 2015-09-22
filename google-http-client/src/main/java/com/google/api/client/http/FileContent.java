@@ -44,7 +44,7 @@ import java.io.InputStream;
  * @since 1.4
  * @author moshenko@google.com (Jacob Moshenko)
  */
-public final class FileContent extends AbstractInputStreamContent {
+public class FileContent extends AbstractInputStreamContent {
 
   private final File file;
 
